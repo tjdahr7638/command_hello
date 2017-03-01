@@ -1,3 +1,5 @@
 print("Hello world")
 print("Hello world2")
 print("Tell her world")
+print("Tell him world")
+print("Hi tjdahr")
